@@ -1,0 +1,2 @@
+SELECT Count(*) 
+FROM User;
